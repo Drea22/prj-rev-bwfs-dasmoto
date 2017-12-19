@@ -1,0 +1,20 @@
+body{margin:32px;}
+
+h1 {font-family:helvetica;
+font-size:100px;
+font-weight:bold;
+text-align:center;
+color:khaki;}
+
+.product {font-famiy:helvetica;
+font-size:32px;
+font-weight:bold;
+color:white;}
+
+#brushes{background-color:mediumseagreen;}
+#frames{background-color: lightcoral;}
+#paint{background-color: skyblue;}
+
+#price{
+font-weight: bold;
+color:blue;}
